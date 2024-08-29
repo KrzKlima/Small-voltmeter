@@ -1,7 +1,7 @@
 # Small-voltmeter
 The project and all files in this repository are provided under CC BY-NC-SA 4.0 license.
 
-This voltmeter is small (I mean, small), cute, fits on a breadboard and is powered from a 3v3 voltage supply. It even includes a Zener voltage regulator, but for larger supply voltages a dropper resistor is required (0402 resistors have weak power capabilities). The use of bubble display makes reading the voltage easy, despite the minute size of the digits. It uses ATTiny44A and MCP3421 ADC. The board size is 20.5mm by 10.5mm.
+This voltmeter is small (I mean, small), cute, fits on a breadboard and is powered from a 3v3 voltage supply. It even includes a Zener voltage regulator, but for larger supply voltages a dropper resistor is required (0402 resistors have weak power capabilities). The use of bubble display makes reading the voltage easy, despite the minute size of the digits. It uses ATTiny44A and MCP3421 ADC. The board size is 20.5mm by 10.5mm. The device is able to measure its own supply voltage, so no such problems occur as in ICL7107 circuits.
 
 ![cover photo](Cover_photo.jpg)
 
