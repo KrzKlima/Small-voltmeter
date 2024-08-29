@@ -3,6 +3,8 @@ The project and all files in this repository are provided under CC BY-NC-SA 4.0 
 
 This voltmeter is small (I mean, small), cute, fits on a breadboard and is powered from a 3v3 voltage supply. It even includes a Zener voltage regulator, but for larger supply voltages a dropper resistor is required (0402 resistors have weak power capabilities). The use of bubble display makes reading the voltage easy, despite the minute size of the digits. It uses ATTiny44A and MCP3421 ADC. The board size is 20.5mm by 10.5mm.
 
+![cover photo](Cover_photo.jpg)
+
 The measurement ranges are the following:
 1) -2V to 10V with the resolution of 1mV
 2) outside the range 1), within -20 to 100V, with the resolution of 10mV
